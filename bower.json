@@ -1,0 +1,17 @@
+{
+  "name": "nomad",
+  "version": "0.0.1",
+  "homepage": "https://github.com/pricelinelabs/nomad",
+  "authors": [
+    "Austin Laverty <austinjlaverty@gmail.com>"
+  ],
+  "description": "French Fries and Cupcakes",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
